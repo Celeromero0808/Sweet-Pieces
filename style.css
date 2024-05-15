@@ -1,0 +1,37 @@
+body {
+    font-family: 'arial', sans-serif;
+    background-color: rgb(241, 227, 235);
+  }
+  .producto {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman', brixton sans-serif, serif;
+  }
+  
+  .precio {
+    color: rgb(14, 13, 13);
+    font-size: 22px;
+  }
+  
+  .producto button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(238, 204, 153);
+    background-color: rgb(218, 64, 136);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .producto button:hover {
+    opacity: 0.7;
+  }
+  
+  
+  
+  
+  
